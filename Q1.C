@@ -17,4 +17,5 @@ int main()
     printf("Hence, entered number is an armstrong number.");
     else
     printf("Hence, entered number is not an armstrong number.");
+ return0;
 }
